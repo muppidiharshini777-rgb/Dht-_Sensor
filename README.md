@@ -10,12 +10,12 @@ This project demonstrates sensor interfacing, embedded programming, and real-tim
 
 ## 🚀 Features
 
-- 🌡️ Real-time Temperature Monitoring
-- 💧 Real-time Humidity Monitoring
-- 📊 Continuous Sensor Data Acquisition
-- ⚡ Low Power Operation
-- 🔄 Automatic Data Refresh
-- 🌐 Easy to Expand for IoT Applications
+- Real-time Temperature Monitoring
+- Real-time Humidity Monitoring
+- Continuous Sensor Data Acquisition
+- Low Power Operation
+- Automatic Data Refresh
+- Easy to Expand for IoT Applications
 
 ---
 
