@@ -68,30 +68,28 @@ This project demonstrates sensor interfacing, embedded programming, and real-tim
 
 ## 📈 Applications
 
-- 🏠 Smart Home Automation
-- 🌦️ Weather Monitoring
-- 🌱 Greenhouse Monitoring
-- 🚜 Precision Agriculture
-- 🏭 Industrial Environment Monitoring
-- 🧪 Laboratory Monitoring
-- 🖥️ Server Room Monitoring
+- Smart Home Automation
+- Weather Monitoring
+- Greenhouse Monitoring
+- Precision Agriculture
+- Industrial Environment Monitoring
+- Laboratory Monitoring
+- Server Room Monitoring
 
 ---
 
 ## 🔮 Future Improvements
 
-- ☁️ IoT Cloud Integration
-- 📶 Wi-Fi Monitoring
-- 📱 Mobile App Dashboard
-- 📺 OLED/LCD Display
-- 💾 Data Logging (SD Card)
-- 📧 Email/SMS Alerts
-- 📊 ThingSpeak or Blynk Integration
+- IoT Cloud Integration
+- Wi-Fi Monitoring
+- Mobile App Dashboard
+- OLED/LCD Display
+- Data Logging (SD Card)
+- Email/SMS Alerts
+- ThingSpeak or Blynk Integration
 
 ---
 
 ## 👨‍💻 Author
 
 **Harshini Muppidi**
-
-If you found this project useful, consider giving it a ⭐ on GitHub!
